@@ -23,7 +23,7 @@ simple_keys = normalise_keys(
         "(delete | forward delete | scrap | spunk)": "delete",
         "(space | skoosh)": "space",
         "(tab | tarp)": "tab",
-        "( enter | shock )": "enter",
+        "( enter | slap )": "enter",
         "( escape | randall )": "escape",
         "home": "home",
         "pagedown": "pagedown",
