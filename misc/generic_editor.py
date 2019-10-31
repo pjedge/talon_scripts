@@ -225,7 +225,7 @@ ctx.keymap(
         "([go] line before end | smear)": Key("cmd-right left"),
         # insertions
         "([insert] line break | sky turn)": Key("shift-enter"),
-        "([insert] new line below | slap)": Key("cmd-right enter"),
+        "([insert] new line below | slappy)": Key("cmd-right enter"),
         "([insert] new line above | shocker)": Key("ctrl-a cmd-left enter up"),
         "([insert] duplicate line | jolt)": Key(
             "ctrl-a cmd-left shift-down cmd-c down cmd-v"
