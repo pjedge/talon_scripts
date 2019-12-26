@@ -19,15 +19,15 @@ simple_keys = normalise_keys(
         "chris": "right",
         "jeep": "up",
         "( dune | doom )": "down",
-        "( backspace | junk )": "backspace",
+        "( backspace | junk | scratch)": "backspace",
         "(delete | forward delete | scrap | spunk)": "delete",
         "(space | skoosh)": "space",
         "(tab | tarp)": "tab",
         "( enter | slap )": "enter",
         "( escape | randall )": "escape",
         "home": "home",
-        "pagedown": "pagedown",
-        "pageup": "pageup",
+        "(page|pagedown)": "pagedown",
+        "(jup|pageup)": "pageup",
         "end": "end",
     }
 )
