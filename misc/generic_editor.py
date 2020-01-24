@@ -208,7 +208,7 @@ def word_number(m):
 ctx.keymap(
     {
         # meta
-        "(save it | sage)": Key("cmd-s"),
+        "(save it | slip)": Key("cmd-s"),
         "(undo it | dizzle)": Key("cmd-z"),
         "(redo it | rizzle)": Key("cmd-shift-z"),
         # clipboard
